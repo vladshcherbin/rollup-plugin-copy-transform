@@ -1,0 +1,8 @@
+{
+  "name": "rollup-plugin-copy-transform",
+  "devDependencies": {
+    "rollup": "^2.41.2",
+    "rollup-plugin-copy": "^3.4.0"
+  },
+  "private": true
+}
